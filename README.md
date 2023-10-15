@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mehdisoleimaniweb/mehdisoleimaniweb](https://github.com/mehdisoleimaniweb/mehdisoleimaniweb)
 
-- 📫 How to reach me soleimanimehdi **mehdisoleimanibabadi1381@gmail.com**
+- 📫 How to reach me **mehdisoleimanibabadi1381@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
