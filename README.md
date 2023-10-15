@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehdisoleimaniweb" alt="mehdisoleimaniweb" /></a> </p>
 
-- 🌱 I’m currently learning **React,JavaScript,BootStrap,Css,HTML5**
-
 - 👨‍💻 All of my projects are available at [https://github.com/mehdisoleimaniweb/mehdisoleimaniweb](https://github.com/mehdisoleimaniweb/mehdisoleimaniweb)
+
+- 💬 Ask me about **React,JavaScript,BootStrap,Css,HTML5**
 
 - 📫 How to reach me **mehdisoleimanibabadi1381@gmail.com**
 
