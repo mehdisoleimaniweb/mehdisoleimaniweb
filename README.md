@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React,JavaScript,BootStrap,Css,HTML5**
 
-- 📫 How to reach me **mehdisoleimanibabadi1381@gmail.com**
+- 📫 How to reach me **soleimanimehdi1381@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
