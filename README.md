@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehdi Soleimani Web</h1>
-https://s6.uupload.ir/files/photo_2023-10-16_23-10-29jh_zifi.png
+<p align="left"> <img src="https://s6.uupload.ir/files/photo_2023-10-16_23-10-29jh_zifi.png" alt="mehdisoleimaniweb" /> </p>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehdisoleimaniweb&label=Profile%20views&color=0e75b6&style=flat" alt="mehdisoleimaniweb" /> </p>
