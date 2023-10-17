@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://s6.uupload.ir/files/photo_2023-10-16_23-10-29jh_zifi.png" alt="mehdisoleimaniweb" /> </p>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehdisoleimaniweb&label=Profile%20views&color=0e75b6&style=flat" alt="mehdisoleimaniweb" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehdisoleimaniweb&label=Profile%20views&color=0e75b6&style=flat" alt="mehdisoleimaniweb" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehdisoleimaniweb" alt="mehdisoleimaniweb" /></a> </p>
 
