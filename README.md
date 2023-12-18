@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mehdi Soleimani Web</h1>
-<p align="left"> <img src="https://s6.uupload.ir/files/photo_2023-10-16_23-10-29jhh_5f5c.png" alt="mehdisoleimaniweb" /> </p>
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a019fa&height=150&section=header"/>
+</a>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;'.+Im+mehdi+soleimani...;A+Front-end+developer;Nice+to+meet+you!&center=true&size=35&color=000&background=FFF5EE">
+  </a>
+</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehdisoleimaniweb&label=Profile%20views&color=0e75b6&style=flat" alt="mehdisoleimaniweb" /></p>
