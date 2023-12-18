@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;'.+Im+mehdi+soleimani...;A+Front-end+developer;Nice+to+meet+you!&center=true&size=35&color=FFFF&background=FFFFFF00">
   </a>
 </h1>
-<h3 align="center">A passionate frontend developer from Iran</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehdisoleimaniweb&label=Profile%20views&color=0e75b6&style=flat" alt="mehdisoleimaniweb" /></p>
 
