@@ -3,7 +3,7 @@
 </a>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;'.+Im+mehdi+soleimani...;A+Front-end+developer;Nice+to+meet+you!&center=true&size=35&color=FFFF&background=000">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;'.+Im+mehdi+soleimani...;A+Front-end+developer;Nice+to+meet+you!&center=true&size=35&color=FFFF&background=FFFFFF00">
   </a>
 </h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
