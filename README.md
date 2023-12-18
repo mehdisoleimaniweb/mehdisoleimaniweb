@@ -1,23 +1,28 @@
-- 👨‍💻 All of my projects are available at [GITHUB](https://github.com/AliNikseresht)
-- 💬 Ask me about **JavaScript, React, Next, TypeScript, Electron, API, Material UI, TailwindCss, Bootstrap, Html5, Css3**
-- 📫 How to reach me **alinksht@gmail.com**
-- 🏙  MY **3D VERSION** OF MY GITHUB IN 2023 : [Watch Now](https://honzaap.github.io/GithubCity/?name=AliNikseresht&year=2023)
-<div style="background-color: lightgray;display: flex;justify-content: center;">
-<h3 align="left" style="margin-top:100px;">Languages and Tools :</h3>
-<div align="center">
-<div style="background-color: lightgray;display: flex;justify-content: space-evenly;">
-<img align="left" alt="Next Js" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
-<img align="left" alt="React Js" width="40px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/react-icon.svg" />
-<img align="left" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/js-icon.svg" />
-<img align="left" alt="TypeScript" width="40px" style="padding-right:10px;" src="https://techstack-generator.vercel.app/ts-icon.svg" />
-<img align="left" alt="Material Ui" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
-<img align="left" alt="Tailwind" width="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=tailwind" />
-<img align="left" alt="Tailwind" width="40px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Electron.svg" />
-</div>
+<h1 align="center">Hi 👋, I'm Mehdi Soleimani Web</h1>
+<p align="left"> <img src="https://s6.uupload.ir/files/photo_2023-10-16_23-10-29jhh_5f5c.png" alt="mehdisoleimaniweb" /> </p>
+<h3 align="center">A passionate frontend developer from Iran</h3>
 
-<p align="center" style="margin-top:20px">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehdisoleimaniweb&label=Profile%20views&color=0e75b6&style=flat" alt="mehdisoleimaniweb" /></p>
 
-<p display: flex; align="center" style="margin-top:20px">
-<a href="https://github.com/AliNikseresht?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=AliNikseresht&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" style="margin-top:10px;"  width="48%" alt="@Goblin's github-readme-stats"/></a>
-<a href="https://github.com/PrinceGoblinTech?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=PrinceGoblinTech&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehdisoleimaniweb" alt="mehdisoleimaniweb" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [https://github.com/mehdisoleimaniweb/mehdisoleimaniweb](https://github.com/mehdisoleimaniweb/mehdisoleimaniweb)
+
+- 💬 Ask me about **React,JavaScript,BootStrap,Css,HTML5**
+
+- 📫 How to reach me **soleimanimehdi1381@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mehdi-soleimani-38597328b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mehdi-soleimani-38597328b/" height="30" width="40" /></a>
+<a href="https://instagram.com/mehdi_soleimani_web?igshid=mzrlodbinwflza==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehdi_soleimani_web?igshid=mzrlodbinwflza==" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehdisoleimaniweb&show_icons=true&locale=en&layout=compact" alt="mehdisoleimaniweb" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehdisoleimaniweb&show_icons=true&locale=en" alt="mehdisoleimaniweb" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehdisoleimaniweb&" alt="mehdisoleimaniweb" /></p>
